@@ -2,7 +2,7 @@
 
 [![fazza30's github stats](https://github-readme-stats.vercel.app/api?username=fazza30)](https://github.com/fazza30/fazza30)
 
-### I'm a Single Fighter Developer!
+### I'm a Newbie Developer!
 - 🔭 I’m final year undergraduated student Informatics Engineering
 - 🌱 I’m currently learning about Frontend Dev specially CodeIgniter and Flutter
 - 👯 I’m looking to collaborate with other developer
