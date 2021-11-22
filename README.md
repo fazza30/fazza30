@@ -13,7 +13,7 @@
 -  🥅 Goals: Contribute more to Open Source projects
 -  ⚡ Fun fact: Love swimming, gaming, and tech enthusiast
 
-## My favorite tools
+## My Favorite Tools
 
 ### Programming Languages
 
@@ -44,7 +44,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Software and tools
+### Software and Tools
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
