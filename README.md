@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Fazza - aka Fazza30 👋
 
-<!--
-**fazza30/fazza30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![fazza30's github stats](https://github-readme-stats.vercel.app/api?username=fazza30)](https://github.com/fazza30/fazza30)
 
-Here are some ideas to get you started:
+### I'm a Single Fighter Developer!
+- 🔭 I’m final year undergraduated student Informatics Engineering
+- 🌱 I’m currently learning about Frontend Dev specially CodeIgniter and Flutter
+- 👯 I’m looking to collaborate with other developer
+- 🥅 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love swimming, gaming, and tech enthusiast 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Weekly development breakdown
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+
+### 📫 Contact Me
+- Twitter - [@fazza_taufiqi](https://twitter.com/fazza_taufiqi)
+- Instagram - [@fazza.mufti](https://instagram.com/fazza.mufti)
